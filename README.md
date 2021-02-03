@@ -19,4 +19,3 @@
 ![Redux](https://img.shields.io/badge/-Redux-lightblue?style=flat&logo=redux)
 ![Express](https://img.shields.io/badge/-Express-blue?style=flat&logo=express)
 ![PostgresQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)
-![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat&logo=Material-UI&logoColor=white)
