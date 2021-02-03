@@ -1,6 +1,6 @@
-### Ciao, programmers!  <img src="https://i.ibb.co/5xnHM6h/pixelart.png" align="left" width="300px">
+### Hello, World!  <img src="https://i.ibb.co/5xnHM6h/pixelart.png" align="left" width="300px">
   
-  - 🔭 I’m currently looking for a Frontend role!
+  - 🔭 I’m currently studying Data Structures & Algorithms.
   - 💬 Ask me about anything!
   - 😄 Pronouns: She / Her
   - ⚡ Fun fact: I speak italian fluently.
