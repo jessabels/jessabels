@@ -1,16 +1,16 @@
 ### Hello, World!  <img src="https://i.ibb.co/5xnHM6h/pixelart.png" align="left" width="300px">
   
-  - 🔭 I’m currently studying TypeScript.
+  - 🔭 I’m currently learning TypeScript.
   - 💬 Ask me about anything!
   - 😄 Pronouns: She / Her
-  - ⚡ Fun fact: I speak italian fluently.
+  - ⚡ Fun fact: I speak Italian fluently.
   
   #### 📫 How to reach me:   
 
   [![Linkedin: Jessica Abels](https://img.shields.io/badge/-JessicaAbels-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-abels-pdx/)](https://www.linkedin.com/in/jessica-abels-pdx/)
 <a href="mailto:mailto:jessabels92@gmail.com">![E-Mail](https://img.shields.io/badge/email-2a8?style=flat-square&logo=gmail&logoColor=white)</a>
   
-  #### 💻 Languages and Tools <br />
+  #### 💻 Languages and Tools: <br />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
