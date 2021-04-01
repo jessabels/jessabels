@@ -1,9 +1,5 @@
 ### Hello, World!  <img src="https://i.ibb.co/5xnHM6h/pixelart.png" align="left" width="300px">
   
-  - 🔭 I’m currently learning TypeScript.
-  - 💬 Ask me about anything!
-  - 😄 Pronouns: She / Her
-  - ⚡ Fun fact: I speak Italian fluently.
   
   #### 📫 How to reach me:   
 
