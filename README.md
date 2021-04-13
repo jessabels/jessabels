@@ -1,11 +1,5 @@
 ### Hello, World!  <img src="https://i.ibb.co/5xnHM6h/pixelart.png" align="left" width="300px">
   
-  
-  #### 📫 How to reach me:   
-
-  [![Linkedin: Jessica Abels](https://img.shields.io/badge/-JessicaAbels-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-abels-pdx/)](https://www.linkedin.com/in/jessica-abels-pdx/)
-<a href="mailto:mailto:jessabels92@gmail.com">![E-Mail](https://img.shields.io/badge/email-2a8?style=flat-square&logo=gmail&logoColor=white)</a>
-  
   #### 💻 Languages and Tools: <br />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -15,3 +9,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-lightblue?style=flat&logo=redux)
 ![Express](https://img.shields.io/badge/-Express-blue?style=flat&logo=express)
 ![PostgresQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)
+
+  #### 📫 How to reach me:   
+
+  [![Linkedin: Jessica Abels](https://img.shields.io/badge/-JessicaAbels-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-abels-pdx/)](https://www.linkedin.com/in/jessica-abels-pdx/)
+<a href="mailto:mailto:jessabels92@gmail.com">![E-Mail](https://img.shields.io/badge/email-2a8?style=flat-square&logo=gmail&logoColor=white)</a>
